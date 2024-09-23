@@ -32,6 +32,13 @@ When you're ready, run:
 ```bash
 npm run reset-project
 ```
+Summary of Tech Stack:
+Front-end Framework: React Native
+Language: TypeScript (with JavaScript)
+State Management: React Context API
+Navigation: React Navigation
+Storage: AsyncStorage
+UI Styling: React Native's StyleSheet
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
